@@ -25,8 +25,8 @@
 <!-- Analitycs -->
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
-   <a href="https://github.com/xvzgabi">
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xvzgabi&show_icons=true&theme=radical" alt="lucelho github stats"/>    
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvzgabi&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Gabi github stats"/>   
+   <a href="https://github.com/Thiago848">
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Thiago848&show_icons=true&theme=radical" alt="Thiago848 github stats"/>    
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago848&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Thiago848 github stats"/>   
 </div>
 
